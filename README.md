@@ -1,0 +1,1 @@
+# zabbix-rss-feed-template
